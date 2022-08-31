@@ -298,6 +298,11 @@ input, select, textarea {
 		color: #152852;
 	}
 
+	h2 > img {
+		display: inline-block;
+		height: 1.4em;
+	}
+
 	@media screen and (max-width: 736px) {
 
 		h2 {
@@ -2458,6 +2463,7 @@ canvas {
 		}
 
 /* Image */
+
   #headshot {
     margin: 5em 0 0 0;
     width: 100%;
@@ -2525,6 +2531,7 @@ canvas {
 
 			width: 35%;
     }
+
 /* List */
 
 	ol {
